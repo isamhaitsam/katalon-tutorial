@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>regression</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>isamhaitsam@gmail.com;</mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d73cadc3-98e3-4200-a4d5-b4cb62bacfd5</testSuiteGuid>
+   <testCaseLink>
+      <guid>3760ed30-431a-447b-b8e5-d0b46ac1576d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/tes login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3de21179-8e57-4129-b8ec-9598da861c16</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>52da2469-b8df-4286-98a8-809eb94e5220</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>224711e3-7306-4913-894f-b5827dfd59b9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/form</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6161b37c-3460-4e01-95ae-2f1f06f60b8f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

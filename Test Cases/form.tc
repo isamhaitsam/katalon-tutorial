@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>485f9ec1-b712-4e5d-8056-a9ccb389dcdb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6161b37c-3460-4e01-95ae-2f1f06f60b8f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM\r\n'</defaultValue>
+      <description></description>
+      <id>6161b37c-3460-4e01-95ae-2f1f06f60b8f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
